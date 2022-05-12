@@ -1,2 +1,2 @@
-const hello = () => 'hello webpack hmr12'
+const hello = () => 'hello webpack hmr'
 export default hello
